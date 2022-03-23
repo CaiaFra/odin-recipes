@@ -1,0 +1,12 @@
+.pasta {
+    color: rgb(255, 41, 41);
+    background-color: rgb(202, 197, 197);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.title {
+    font-size: 60px;
+    color: rgb(18, 0, 97);
+    text-align: center;
+}
